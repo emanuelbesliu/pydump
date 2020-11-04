@@ -27,4 +27,4 @@ if __name__ == '__main__':
         filename = __file__ + '.dump'
         print("Exception caught, writing %s" % filename)
         pydump.save_dump(filename)
-        print("Run 'python -m pydump %s' to debug" % (filename))
+        print("Run 'python3 -m pydump %s' to debug" % (filename))
