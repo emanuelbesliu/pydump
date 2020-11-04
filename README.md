@@ -5,6 +5,15 @@ Pydump writes the traceback of an exception into a file and
 can later load it in a Python debugger. It works with the built-in 
 pdb and with other popular debuggers (pudb, ipdb and pdbpp).
 
+Install
+=================
+```python3 setup.py build```\
+```python3 settup.py install```
+
+Test
+=================
+```python crash_test.py```
+
 Why I wrote this?
 =================
 
