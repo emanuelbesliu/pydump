@@ -12,7 +12,7 @@ Install
 
 Test
 =================
-```python test.py```
+```python3 test.py```
 
 Why I wrote this?
 =================
